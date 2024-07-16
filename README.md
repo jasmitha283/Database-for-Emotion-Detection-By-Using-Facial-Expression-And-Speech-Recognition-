@@ -1,0 +1,1 @@
+# Database-for-Emotion-Detection-By-Using-Facial-Expression-And-Speech-Recognition-
